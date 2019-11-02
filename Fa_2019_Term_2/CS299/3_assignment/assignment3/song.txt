@@ -1,0 +1,49 @@
+title1
+artist1
+album1
+1:23
+
+raNDoM tiTLe
+random artist
+random album
+8:88
+
+HI
+hi
+hi
+hi
+
+bYe
+bye
+bye
+bye
+
+lowercase
+artist
+album
+time
+
+BlAH
+blah
+blah
+blah
+
+happy birthday
+to you
+happy birthday
+to you
+
+twINKle TWinkle
+little star
+how i wonder what you are
+6:66
+
+the purpose of
+this file
+is to come up with a bunch of random song info
+this file must be structured as:
+
+TITLE
+ARTIST
+ALBUM
+LENGTH
